@@ -1,7 +1,0 @@
-test-data*
-src
-apache-opennlp-*
-stanford-corenlp-*
-*.pyc
-!test-data.sorted
-all-test*
